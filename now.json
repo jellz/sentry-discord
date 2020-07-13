@@ -1,0 +1,6 @@
+{
+  "name": "sentry-discord",
+  "env": {
+    "WEBHOOK": "@sentry-discord-webhook"
+  }
+}
