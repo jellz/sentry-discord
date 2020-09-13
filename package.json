@@ -14,6 +14,6 @@
     "start": "micro"
   },
   "dependencies": {
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.6.1"
   }
 }
